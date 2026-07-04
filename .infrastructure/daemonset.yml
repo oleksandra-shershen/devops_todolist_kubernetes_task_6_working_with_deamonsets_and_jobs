@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: curl
-        image: ikulyk404/busyboxplus:curl
+        image: busyboxplus:curl
         resources:
           requests:
             cpu: 10m
